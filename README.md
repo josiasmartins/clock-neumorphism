@@ -1,7 +1,7 @@
 # Clock with Neumorphism
 
 ## demo 
-![Demo](./assets/clock-neumorphism.gif)
+![Demo](./assets/clcok-neumorphism.gif)
 
 ## Construido com Javascript, HTLM, CSS
 
